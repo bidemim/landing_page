@@ -47,14 +47,27 @@ a {
 .text {
         color: white;
 
-
 }
 
 .body {
     display: flex;
     flex-direction: column;
+}
+
+.info {
+
+} 
+
+.action {
 
 }
+
+.quote {
+    background-color: #E5E7EB;
+
+}
+
+
 
 .footer {
     display: flex;
@@ -65,4 +78,14 @@ a {
     color: white;
 
     
+}
+
+.button {
+    background-color: #3882F6;
+    color: white;
+    margin: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+
 }
