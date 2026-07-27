@@ -58,6 +58,7 @@ a {
     gap: 8px;
     width: 50%;
     justify-content: start;
+
 }
 
 .small-text {
@@ -80,7 +81,6 @@ a {
     color: black;
     width: 50%;
     justify-content: end;
-
 }
 
 button {
