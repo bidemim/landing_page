@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+}
+
+
+.logo {
+    display: flex;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+}
+
+img {
+    display: flex;
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
+
+li {
+    list-style-type: none;
+
+}
