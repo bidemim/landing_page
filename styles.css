@@ -14,6 +14,7 @@
     display: flex;
     justify-content: space-around;
     padding: 10px;
+    padding-bottom: 48px;
 }
 
 .logo {
@@ -21,8 +22,6 @@
   font-weight: 900;
   font-style: italic;
 }
-
-
 
 ul {
     display: flex;
@@ -32,8 +31,6 @@ ul {
     gap: 10px;
     justify-content: space-between;
 }
-
-
 
 img {
     display: flex;
@@ -45,4 +42,21 @@ img {
 a {
     text-decoration: none;
     color: white;
+}
+
+.text {
+        color: white;
+
+
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 72px;
+    background-color: #1F2937;
+    color: white;
+
+    
 }
