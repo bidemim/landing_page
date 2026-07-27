@@ -34,9 +34,9 @@ ul {
 
 img {
     display: flex;
-    flex-direction: column;
-    height: 100px;
-    width: 100px;
+    flex-direction: row;
+    height: 200px;
+    width: 200px;
 }
 
 a {
@@ -47,6 +47,12 @@ a {
 .text {
         color: white;
 
+
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
 
 }
 
