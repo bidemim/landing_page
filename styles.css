@@ -95,5 +95,13 @@ button {
 .content {
     display: flex;
     flex-direction: column;
-    
+}
+
+.content-header {
+    text-align: center;
+    padding: 25px;
+    font-weight: 900;
+    font-size: 36px;
+    color: #1f2937;
+
 }
