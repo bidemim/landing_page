@@ -91,3 +91,9 @@ button {
     color: white;
     width: 20%;
 }
+
+.content {
+    display: flex;
+    flex-direction: column;
+    
+}
